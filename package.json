@@ -22,7 +22,7 @@
     "@astrojs/starlight": "^0.28.6",
     "@astrojs/starlight-tailwind": "^2.0.3",
     "@astrojs/tailwind": "^5.1.2",
-    "@directus/sdk": "^18.0.0",
+    "@directus/sdk": "^19.1.0",
     "@expressive-code/plugin-collapsible-sections": "^0.38.3",
     "@fontsource-variable/noto-sans": "^5.1.0",
     "@fontsource-variable/plus-jakarta-sans": "^5.1.0",
